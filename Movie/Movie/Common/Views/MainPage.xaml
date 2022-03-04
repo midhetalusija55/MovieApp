@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Movie.MainPage"
+             BackgroundColor="#ece4e1">
+    <ContentPage.Content>
+        <Grid>
+        <StackLayout VerticalOptions="CenterAndExpand" Padding="40">
+        <Image Source="splash_logo.png" WidthRequest="350"/>
+            </StackLayout>
+            <StackLayout VerticalOptions="EndAndExpand">
+        <StackLayout>
+            <Button Text="Login" TextColor="Black" FontSize="Subtitle" FontAttributes="Bold" BackgroundColor="#ff0137" CornerRadius="30" Margin="20,0,20,5" Clicked="Login_Button_Clicked"></Button>
+            <Button Text="Registration" TextColor="Black" FontSize="Subtitle" FontAttributes="Bold" BackgroundColor="#ff0137" CornerRadius="30" Margin="20,0,20,40" Clicked="NewProfile_Button_Clicked"></Button>
+        </StackLayout>
+        </StackLayout>
+         
+        </Grid>
+    </ContentPage.Content>
+
+</ContentPage>

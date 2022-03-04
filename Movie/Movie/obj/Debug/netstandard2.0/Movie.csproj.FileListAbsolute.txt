@@ -1,0 +1,37 @@
+C:\Users\midhe\Desktop\Movie\Movie\Movie\bin\Debug\netstandard2.0\Movie.deps.json
+C:\Users\midhe\Desktop\Movie\Movie\Movie\bin\Debug\netstandard2.0\Movie.dll
+C:\Users\midhe\Desktop\Movie\Movie\Movie\bin\Debug\netstandard2.0\ref\Movie.dll
+C:\Users\midhe\Desktop\Movie\Movie\Movie\bin\Debug\netstandard2.0\Movie.pdb
+C:\Users\midhe\Desktop\Movie\Movie\Movie\obj\Debug\netstandard2.0\Movie.csproj.AssemblyReference.cache
+C:\Users\midhe\Desktop\Movie\Movie\Movie\obj\Debug\netstandard2.0\Movie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\midhe\Desktop\Movie\Movie\Movie\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\midhe\Desktop\Movie\Movie\Movie\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\midhe\Desktop\Movie\Movie\Movie\obj\Debug\netstandard2.0\Movie.AssemblyInfoInputs.cache
+C:\Users\midhe\Desktop\Movie\Movie\Movie\obj\Debug\netstandard2.0\Movie.AssemblyInfo.cs
+C:\Users\midhe\Desktop\Movie\Movie\Movie\obj\Debug\netstandard2.0\Movie.csproj.CoreCompileInputs.cache
+C:\Users\midhe\Desktop\Movie\Movie\Movie\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\midhe\Desktop\Movie\Movie\Movie\obj\Debug\netstandard2.0\Movie.dll
+C:\Users\midhe\Desktop\Movie\Movie\Movie\obj\Debug\netstandard2.0\ref\Movie.dll
+C:\Users\midhe\Desktop\Movie\Movie\Movie\obj\Debug\netstandard2.0\Movie.pdb
+C:\Users\midhe\Desktop\Movie\Movie\Movie\obj\Debug\netstandard2.0\HomePage.xaml.g.cs
+C:\Users\midhe\Desktop\Movie\Movie\Movie\obj\Debug\netstandard2.0\Login.xaml.g.cs
+C:\Users\midhe\Desktop\Movie\Movie\Movie\obj\Debug\netstandard2.0\Registration.xaml.g.cs
+C:\Users\midhe\Desktop\Movie - Copy\Movie\Movie\obj\Debug\netstandard2.0\Movie.csproj.AssemblyReference.cache
+C:\Users\midhe\Desktop\Movie - Copy\Movie\Movie\obj\Debug\netstandard2.0\Movie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\midhe\Desktop\Movie - Copy\Movie\Movie\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\midhe\Desktop\Movie - Copy\Movie\Movie\obj\Debug\netstandard2.0\Common\Views\MovieDetailsPage.xaml.g.cs
+C:\Users\midhe\Desktop\Movie - Copy\Movie\Movie\obj\Debug\netstandard2.0\Login.xaml.g.cs
+C:\Users\midhe\Desktop\Movie - Copy\Movie\Movie\obj\Debug\netstandard2.0\Registration.xaml.g.cs
+C:\Users\midhe\Desktop\Movie - Copy\Movie\Movie\obj\Debug\netstandard2.0\Movie.AssemblyInfoInputs.cache
+C:\Users\midhe\Desktop\Movie - Copy\Movie\Movie\obj\Debug\netstandard2.0\Movie.AssemblyInfo.cs
+C:\Users\midhe\Desktop\Movie - Copy\Movie\Movie\obj\Debug\netstandard2.0\Movie.csproj.CoreCompileInputs.cache
+C:\Users\midhe\Desktop\Movie - Copy\Movie\Movie\obj\Debug\netstandard2.0\Movie.dll
+C:\Users\midhe\Desktop\Movie - Copy\Movie\Movie\obj\Debug\netstandard2.0\ref\Movie.dll
+C:\Users\midhe\Desktop\Movie - Copy\Movie\Movie\obj\Debug\netstandard2.0\Movie.pdb
+C:\Users\midhe\Desktop\Movie - Copy\Movie\Movie\bin\Debug\netstandard2.0\Movie.deps.json
+C:\Users\midhe\Desktop\Movie - Copy\Movie\Movie\bin\Debug\netstandard2.0\Movie.dll
+C:\Users\midhe\Desktop\Movie - Copy\Movie\Movie\bin\Debug\netstandard2.0\ref\Movie.dll
+C:\Users\midhe\Desktop\Movie - Copy\Movie\Movie\bin\Debug\netstandard2.0\Movie.pdb
+C:\Users\midhe\Desktop\Movie - Copy\Movie\Movie\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\midhe\Desktop\Movie - Copy\Movie\Movie\obj\Debug\netstandard2.0\Common\Views\HomePage.xaml.g.cs
+C:\Users\midhe\Desktop\Movie - Copy\Movie\Movie\obj\Debug\netstandard2.0\Common\Views\MainPage.xaml.g.cs
